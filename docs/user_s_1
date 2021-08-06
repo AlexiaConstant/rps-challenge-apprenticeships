@@ -1,0 +1,9 @@
+User story 1 -
+feature test:
+register name test - User can submit a name and then the name will be passed back
+with "vs. Computer". So "user provided name vs Computer".
+sign in fuction  - create a function that injects username/player name (Alexia) and the submits.
+
+views:
+index - formated with simple message and form for user. 
+play - formated so the playername or username can be added next to vs computer. 
